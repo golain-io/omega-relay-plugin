@@ -1,0 +1,26 @@
+{
+  "name": "omega-relay",
+  "displayName": "Omega Relay",
+  "version": "0.2.0",
+  "description": "Let an AI assistant work on your own computer: files, terminal, browser, screen and control, agent programs, and capabilities you add, each only as far as you allow.",
+  "author": {
+    "name": "Golain Systems Private Limited",
+    "email": "support@golain.io",
+    "url": "https://omegarelay.dev"
+  },
+  "homepage": "https://omegarelay.dev",
+  "keywords": [
+    "computer",
+    "files",
+    "terminal",
+    "browser",
+    "screen",
+    "agents"
+  ],
+  "license": "MIT",
+  "icon": "./assets/omega-relay.svg",
+  "documentationUrl": "https://omegarelay.dev/support",
+  "supportUrl": "https://omegarelay.dev/support",
+  "privacyPolicyUrl": "https://omegarelay.dev/privacy",
+  "termsOfServiceUrl": "https://omegarelay.dev/terms"
+}
