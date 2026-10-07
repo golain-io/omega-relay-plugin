@@ -17,7 +17,7 @@ Two settings decide what an assistant can do. The Omega Relay app on the compute
 - "Run the tests in my project folder and show me what failed."
 - "Open the pricing page in my browser and tell me what changed."
 - "Look at the window in front and tell me what the error dialog says."
-- "Hand this refactor to Claude Code in my project folder and tell me when it is done."
+- "Hand this refactor to an agent program in my project folder and tell me when it is done."
 
 ## Stop or change access
 
